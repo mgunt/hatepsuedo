@@ -1,0 +1,16 @@
+# Michael's Psuedoscience and Hate Speech Filter
+# Description: Protection from hate-spewing and psuedoscience pushing sites.
+# Format: hosts
+# Version: 1.0.0
+# Release: 1
+# License: MPL-2.0
+# Updated: Fri 27 Dec 2019 07:13:15 PM EST
+# RAW: 
+
+# Anti-medicine (anti-psychiatry, anti-vaccine, "holistic/alternative medicine", etc.)
+0.0.0.0 acpeds.org
+0.0.0.0 cchr.org
+0.0.0.0 madinamerica.com
+0.0.0.0 recoveringfrompsychiatry.com
+0.0.0.0 rxisk.org
+
