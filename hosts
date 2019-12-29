@@ -1,9 +1,9 @@
 # Title: Michael's Psuedoscience and Hate Speech Blacklist
 # Description: Protection from hate-spewing and psuedoscience pushing sites.
 # Format: hosts
-# Version: 1.0.5
+# Version: 1.0.6
 # License: MPL-2.0
-# Updated: Sun Dec 29 2019 03:55 AM EST
+# Updated: Sun Dec 29 2019 04:04 AM EST
 # RAW: https://raw.githubusercontent.com/mgunt/hatepsuedo/master/hosts
 
 # Anti-medicine (anti-psychiatry, anti-vaccine, "holistic/alternative medicine", etc.)
