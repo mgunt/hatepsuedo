@@ -3,7 +3,7 @@
 # Format: hosts
 # Version: 1.0.6
 # License: MPL-2.0
-# Updated: Sun Dec 29 2019 04:04 AM EST
+# Updated: Sun Dec 29 2019 04:36 AM EST
 # RAW: https://raw.githubusercontent.com/mgunt/hatepsuedo/master/hosts
 
 # Anti-medicine (anti-psychiatry, anti-vaccine, "holistic/alternative medicine", etc.)
@@ -15,5 +15,49 @@
 0.0.0.0 rxisk.org
 0.0.0.0 survivingantidepressants.org
 
-# Hate sites
+# Hate sites - generic
 0.0.0.0 churchmilitant.com
+
+# Hate sites - anti-trans
+0.0.0.0 4w.pub
+0.0.0.0 feministcurrent.com
+0.0.0.0 fairplayforwomen.com
+0.0.0.0 womansplaceuk.org
+0.0.0.0 resistersunited.org
+0.0.0.0 feministstruggle.org
+0.0.0.0 speakupforwomen.nz
+0.0.0.0 wlrnmedia.wordpress.com
+0.0.0.0 womenarehuman.com
+0.0.0.0 peaktrans.org
+0.0.0.0 gendertrending.com
+0.0.0.0 reneejg.net
+0.0.0.0 janeclarejones.com
+0.0.0.0 sarahditum.com
+0.0.0.0 culturallyboundgender.wordpress.com
+0.0.0.0 lostwomynsspace.blogspot.com
+0.0.0.0 antipornfeminists.wordpress.com
+0.0.0.0 lavenderblume.wordpress.com
+0.0.0.0 rageagainstthemanchine.com
+0.0.0.0 sexnotgender.com
+0.0.0.0 terfisaslur.com
+0.0.0.0 purplesagefem.wordpress.com
+0.0.0.0 radfem.org
+0.0.0.0 factcheckme.wordpress.com
+0.0.0.0 radicalhubarchives.wordpress.com
+0.0.0.0 feminist-reprise.org
+0.0.0.0 deepgreenresistance.org
+0.0.0.0 gendercritical.blogspot.com
+0.0.0.0 radfemcentral.blogspot.com
+0.0.0.0 nymeses.blogspot.com
+0.0.0.0 womenofthepatriarchy.wordpress.com
+0.0.0.0 revolutionarycombustion.wordpress.com
+0.0.0.0 sisterhoodispowerful.wordpress.com
+0.0.0.0 genderfatigue.wordpress.com
+0.0.0.0 trannosphere.tumblr.com
+0.0.0.0 transgenderreality.com
+0.0.0.0 whoiscis.wordpress.com
+0.0.0.0 liberationcollective.wordpress.com
+0.0.0.0 witchwind.wordpress.com
+0.0.0.0 sineadconnllysinead.wordpress.com
+0.0.0.0 rebeccarc.com
+0.0.0.0 rootveg.wordpress.com
