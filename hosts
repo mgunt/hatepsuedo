@@ -9,10 +9,10 @@
 
 # 4chan and Chan-like sites
 0.0.0.0 4chan.org
-0.0.0.0 endchan.org
-0.0.0.0 kiwifarms.is
 0.0.0.0 4channel.org
 0.0.0.0 8kun.top
+0.0.0.0 endchan.org
+0.0.0.0 kiwifarms.is
 
 
 # Anti-medicine (anti-psychiatry, anti-vaccine, "holistic/alternative medicine", etc.)
